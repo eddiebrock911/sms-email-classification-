@@ -35,7 +35,7 @@
   * wordcloud
   * sweetviz (वैकल्पिक, EDA के लिए)
 
-> आप एक `smsrequirements.txt` बना सकते हैं और उसमें ऊपर के पैकेज लिखकर `pip install -r smsrequirements.txt` चला सकते हैं।
+>  `pip install -r smsrequirements.txt` चला सकते हैं।
 
 ## कैसे चलाएँ (Run)
 
@@ -97,3 +97,4 @@ streamlit run sms_app2.py
 ---
 
 अगर चाहो तो मैं यह README अंग्रेज़ी में भी दे दूँ या GitHub repo के लिए `README.md` के साथ LICENSE और `.gitignore` भी बना दूँ।
+
