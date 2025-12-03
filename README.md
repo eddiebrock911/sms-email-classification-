@@ -96,5 +96,4 @@ You may apply any license as needed. MIT License is recommended.
 
 ---
 
-If you want, I can also add a `LICENSE` file and a `.gitignore` for your GitHub repository.
 
