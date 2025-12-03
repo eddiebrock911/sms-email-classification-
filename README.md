@@ -35,7 +35,7 @@ This project is an all-in-one Spam Detector Dashboard. It supports single-messag
   * wordcloud
   * sweetviz (optional, for EDA)
 
-> You can create a `smsrequirements.txt` file with the above packages and run `pip install -r smsrequirements.txt`.
+> CMD run `pip install -r smsrequirements.txt`.
 
 ## How to Run
 
@@ -97,3 +97,4 @@ You may apply any license as needed. MIT License is recommended.
 ---
 
 If you want, I can also add a `LICENSE` file and a `.gitignore` for your GitHub repository.
+
