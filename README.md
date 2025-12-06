@@ -1,7 +1,6 @@
 # Spam Detector Dashboard
 
 **A Streamlit-based web app for SMS/Message spam detection with UI, EDA, model training, and evaluation pipelines.**
-
 ---
 
 ## Live Demo [Go Live](https://antispamkit.onrender.com/)
@@ -97,6 +96,7 @@ streamlit run sms_app2.py
 You may apply any license as needed. MIT License is recommended.
 
 ---
+
 
 
 
