@@ -17,7 +17,7 @@ This project is an all-in-one Spam Detector Dashboard. It supports single-messag
 * Model evaluation: confusion matrix, ROC/PR curves, F1 vs threshold, and best threshold selection.
 * WordCloud visualization for spam vs ham.
 * Train & Compare pipelines using Logistic Regression, Multinomial Naive Bayes, Linear SVC, and Random Forest.
-* Automatic saving of the best model as `best_pipeline.pkl`, `vectorizer.pkl`, and `model.pkl`.
+* Automatic saving of the best model as `pipeline.pkl`, `vectorizer.pkl`, and `model.pkl`.
 * Automated EDA option using Sweetviz with fallback.
 
 ## Requirements
@@ -96,6 +96,7 @@ streamlit run sms_app2.py
 You may apply any license as needed. MIT License is recommended.
 
 ---
+
 
 
 
