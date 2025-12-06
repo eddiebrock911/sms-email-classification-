@@ -45,7 +45,7 @@ This project is an all-in-one Spam Detector Dashboard. It supports single-messag
 3. Install dependencies:
 
 ```bash
-pip install -r smsrequirements.txt
+pip install -r requirements.txt
 # or
 pip install streamlit scikit-learn pandas numpy joblib matplotlib seaborn plotly wordcloud sweetviz
 ```
@@ -96,6 +96,7 @@ streamlit run sms_app2.py
 You may apply any license as needed. MIT License is recommended.
 
 ---
+
 
 
 
